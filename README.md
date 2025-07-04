@@ -1,4 +1,3 @@
-# Intern-Task-01
 # Hello, SIBHIRAAJ R
 I really value clean code and love teaming up with others to solve real-world challenges.
 
