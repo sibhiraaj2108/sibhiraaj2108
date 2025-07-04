@@ -1,4 +1,4 @@
-# Hello, SIBHIRAAJ R
+# Hi I am SIBHIRAAJ R
 I really value clean code and love teaming up with others to solve real-world challenges.
 
 # About Me
